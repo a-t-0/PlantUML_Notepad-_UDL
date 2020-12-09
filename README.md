@@ -23,7 +23,7 @@ c:/users/<linux username>/Application Data/Notepad++/userDefinedLangs/
 
 ## Use it in dark mode:
  - Open your Notepad++, and select “Settings” on the menu bar, and choose “Style configurator”.
- - Select theme “Obsidian” (you can choose other dark themes)
+ - Select theme “Obsidian” (you can choose other dark themes like "Deep black")
  - Click on Save&Colse
 
 [![enter image description here][1]][1]
